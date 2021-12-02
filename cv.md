@@ -33,6 +33,6 @@ My work experience includes:
   * BELHARD Academy - Java programming. Laboratory
   
 ## English
-English level - basic.
+English level - A2.
 
 
