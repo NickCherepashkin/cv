@@ -1,5 +1,5 @@
 # Drozdova Veronika
- c++, android (java) developer
+ android (java) developer
 
 
 ## Contacts
@@ -16,11 +16,14 @@ I prefer to constantly develop in programming and not only. I spend a lot of tim
 4. Development tools: Tomcat, Eclipse, Android Studio, XCode (used a little), MySQL Workbech, Figma
   
 ## Code Examples
-Links to examples will appear shortly.
+ * https://github.com/NickCherepashkin/rs.android_Pomodoro
+ * https://github.com/NickCherepashkin/rs.android_DancersBase
+ * https://github.com/NickCherepashkin/rs.android_CatAPI
+ * https://github.com/NickCherepashkin/final_project_epam
 
 ## Works
 My work experience includes: 
- * development of special software in C ++ (6 years);
+ * development of special software in C ++ (6+ years);
  * development of mobile applications for Android (2 applications published in the play market) 
  * developing a web application in Java
  * Swift development experience (1 application for ios)
@@ -31,8 +34,7 @@ My work experience includes:
   * BELHARD Academy - Java programming. First level
   * BELHARD Academy - Java programming. Professional level
   * BELHARD Academy - Java programming. Laboratory
+  * Feb - Sept 2022 EPAM - Java Web Development.  
   
 ## English
 English level - A2.
-
-
