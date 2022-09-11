@@ -1,5 +1,5 @@
 # Drozdova Veronika
- android (java) developer
+ junior android (java) developer
 
 
 ## Contacts
