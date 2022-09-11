@@ -1,1 +1,1 @@
-https://NickCherepashkin.github.io/rsschool-cv/cv
+https://NickCherepashkin.github.io/cv
