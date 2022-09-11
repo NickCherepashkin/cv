@@ -1,1 +1,1 @@
-https://NickCherepashkin.github.io/cv
+https://NickCherepashkin.github.io/cv/cv
